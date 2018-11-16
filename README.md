@@ -1,3 +1,3 @@
 # 10Apps
 
-This repository will contact 10 applications
+This repository will contain 10 applications
