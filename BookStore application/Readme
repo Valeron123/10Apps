@@ -10,4 +10,4 @@ Update entry,
 Delete,
 Close
 
-I will use <b>sqlite3</b> for backend, Tkinter for frontend and pyinstaller for creating .exe file for my program. 
+I will use sqlite3 for backend, Tkinter for frontend and pyinstaller for creating .exe file for my program. 
