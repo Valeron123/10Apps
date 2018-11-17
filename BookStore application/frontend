@@ -1,21 +1,6 @@
 from tkinter import *
 import backend
 
-"""
-In this program we are going to store this kind of information:
-Title, Author
-Year, ISBN
-
-User can:
-View all records,
-Search an entry,
-Add entry,
-Update entry,
-Delete,
-Close
-
-"""
-
 def get_selected_row(event):
     global selected_tuple
     try:
